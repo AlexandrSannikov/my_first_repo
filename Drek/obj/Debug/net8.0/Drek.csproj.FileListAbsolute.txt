@@ -1,0 +1,15 @@
+D:\study\Ur6\my_first_repo\Drek\bin\Debug\net8.0\Drek.exe
+D:\study\Ur6\my_first_repo\Drek\bin\Debug\net8.0\Drek.deps.json
+D:\study\Ur6\my_first_repo\Drek\bin\Debug\net8.0\Drek.runtimeconfig.json
+D:\study\Ur6\my_first_repo\Drek\bin\Debug\net8.0\Drek.dll
+D:\study\Ur6\my_first_repo\Drek\bin\Debug\net8.0\Drek.pdb
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\Drek.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\Drek.AssemblyInfoInputs.cache
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\Drek.AssemblyInfo.cs
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\Drek.csproj.CoreCompileInputs.cache
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\Drek.sourcelink.json
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\Drek.dll
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\refint\Drek.dll
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\Drek.pdb
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\Drek.genruntimeconfig.cache
+D:\study\Ur6\my_first_repo\Drek\obj\Debug\net8.0\ref\Drek.dll
